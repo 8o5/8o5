@@ -1,10 +1,6 @@
 # 👋 hi!
 my name is nic, catch me on [anilist](https://anilist.co/user/nic/)
 
-## 💬 contact me
-* telegram: @killing
-* discord: nic#0002 (249547320306171907)
-
 ### 📌 experience
 - **5 years** of graphic design
 - **6 months** of ux design
@@ -14,3 +10,7 @@ my name is nic, catch me on [anilist](https://anilist.co/user/nic/)
 - html/css
 - ahk
 - little bit of js
+
+## 💬 contact me
+* telegram: @killing
+* discord: nic#0002 (249547320306171907)
