@@ -8,4 +8,9 @@ my name is nic, catch me on [anilist](https://anilist.co/user/nic/)
 ### 📌 experience
 - **5 years** of graphic design
 - **6 months** of ux design
-- plus a little bit of python (mainly personal projects)
+
+### 💬 languages
+- python
+- html/css
+- ahk
+- little bit of js
