@@ -3,13 +3,12 @@ my name is nic, catch me on [anilist](https://anilist.co/user/nic/)
 
 ### 📌 experience
 - **5 years** of graphic design
-- **6 months+** of ux design
+- **8 months** of web dev
 
 ### 💬 languages
 - python
 - html/css
-- ahk (lol)
-- little bit of js
+- js
 
 ## 💬 contact me
 * telegram: @killing
