@@ -2,8 +2,8 @@
 my name is nic, catch me on [anilist](https://anilist.co/user/nic/)
 
 ### 📌 experience
-- **5 years** of graphic design
-- **8 months** of web dev
+- **4+ years** of graphic design
+- **6+ months** of web dev
 
 ### 💬 languages
 - python
