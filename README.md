@@ -10,6 +10,6 @@ my name is nic, catch me on [anilist](https://anilist.co/user/nic/)
 - html/css
 - js
 
-## 💬 contact me
+## 📲 contact me
 * telegram: @killing
 * discord: nic#0002 (249547320306171907)
