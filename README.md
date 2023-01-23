@@ -1,5 +1,5 @@
 # 👋 hi!
-my name is nic, catch me on [anilist](https://anilist.co/user/nic/)
+my name is nic. i enjoy graphic design and write a little bit of code.
 
 ### 📌 experience
 - **4+ years** of graphic design
@@ -12,4 +12,3 @@ my name is nic, catch me on [anilist](https://anilist.co/user/nic/)
 
 ## 📲 contact me
 * telegram: @killing
-* discord: nic#0002 (249547320306171907)
