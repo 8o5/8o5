@@ -1,5 +1,5 @@
 # 👋 hi!
-my name is nic. i enjoy graphic design and write a little bit of code.
+my name is nic. i enjoy graphic design and write a little bit of code. computer sci major
 
 ### 📌 experience
 - **4+ years** of graphic design
